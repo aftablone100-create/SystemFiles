@@ -36,3 +36,18 @@ SystemFiles/
 ├── gradle.properties
 └── settings.gradle.kts
 ```
+# 🛠️ Build from Source
+
+* You can build this project directly from raw source code either locally on your machine or automatically in the cloud using GitHub Actions.
+
+## Automated Cloud Build (GitHub Actions)
+
+* → Fork or clone this repository to your GitHub account.
+
+* → Go to the Actions tab in your repository.
+
+* → Select the Build APK workflow.
+
+* → Click Run workflow -> Run workflow.
+
+* → Once completed, click on the workflow run and download the SystemFiles-debug artifact.
